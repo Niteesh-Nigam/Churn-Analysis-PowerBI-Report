@@ -89,7 +89,6 @@ An interesting finding is that customers with lower product usage tend to have h
 
 # Recommendations and Strategies
 Based on the analysis, here are some key recommendations to reduce churn:
-![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page8.jpg)
 
 Targeted Engagement for Senior Customers:
 
