@@ -30,12 +30,13 @@ Total Revenue: $7,247,074
 Revenue Lost Due to Churn: $1,367,515
 Potential Revenue at Risk: $55,731 (Average monthly charge of churned customers)
 Below is a detailed visualization of the data:
-![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/images/Page2.jpg)
+![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page2.jpg)
+
 
 Page-wise Breakdown
 1. Churn by Demographics
 In this section, we analyze how churn rates vary across different demographic groups such as age and gender. Key insights include:
-![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/images/Page3.jpg)
+![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page3.jpg)
 
 Churn by Gender:
 
@@ -46,7 +47,7 @@ Non-Senior Churn Rate: 24.18%
 
 2. Churn Impact on Revenue
 This page visualizes the financial losses due to churn. It estimates the total revenue lost as well as the future revenue at risk based on current churn patterns. Key metrics:
-![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/images/Page4.jpg)
+![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page4.jpg)
 
 Revenue Lost Due to Churn: $1,367,515
 Potential Revenue at Risk: $55,731
@@ -55,15 +56,15 @@ These figures help highlight the importance of retention strategies to minimize 
 
 3. Product Usage Trends
 This section explores how customer churn correlates with product usage patterns. It helps identify if customers who churned had distinct usage behaviors compared to retained customers. Key metrics include:
-![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/images/Page5.jpg)
+![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page5.jpg)
 
 Average Usage Duration (Churned): 0.10 months (approximately 3 days)
 Average Usage Duration (Retained): 0.21 months (approximately 6 days)
 
 4. Customer Segmentation
 Customers are classified into different risk categories based on their churn likelihood. This segmentation enables targeted marketing efforts to reduce churn.
-![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/images/Page6.jpg)
-![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/images/Page7.jpg)
+![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page6.jpg)
+![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page7.jpg)
 
 High Risk Customers: 100% churn rate (all high-risk customers churned)
 Medium Risk Customers: 23.76% churn rate
@@ -88,7 +89,7 @@ An interesting finding is that customers with lower product usage tend to have h
 
 Recommendations and Strategies
 Based on the analysis, here are some key recommendations to reduce churn:
-![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/images/Page8.jpg)
+![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page8.jpg)
 
 Targeted Engagement for Senior Customers:
 
