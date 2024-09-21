@@ -1,9 +1,9 @@
-Churn-Analysis-PowerBI-Report
-Customer Churn Analysis Dashboard
-Introduction
+# Churn-Analysis-PowerBI-Report
+# Customer Churn Analysis Dashboard
+# Introduction
 This project presents a Customer Churn Analysis dashboard built using Power BI. It aims to provide a comprehensive analysis of customer churn, helping businesses understand the key factors contributing to churn and offering insights for retention strategies. By visualizing demographic breakdowns, usage trends, and churn risk, this dashboard equips decision-makers with the tools necessary for data-driven actions.
 
-Project Overview
+# Project Overview
 Customer churn is a critical challenge in maintaining a profitable customer base. This project leverages historical customer data to assess churn rates, revenue impact, and potential at-risk revenue. The dashboard focuses on:
 
 Churn by Demographic Factors: Understanding how gender, age, and income affect churn.
@@ -12,7 +12,7 @@ Product Usage: Identifying how usage patterns relate to churn.
 Customer Segmentation: Classifying customers into risk categories for targeted retention.
 The goal is to highlight actionable insights that help businesses reduce churn and maximize customer lifetime value.
 
-Understanding the Data
+# Understanding the Data
 The dataset contains various fields such as customer demographics, product subscription details, and churn history. The key columns used for the analysis include:
 
 Churn Label: Whether the customer has churned (Yes/No).
@@ -33,7 +33,7 @@ Below is a detailed visualization of the data:
 ![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page2.jpg)
 
 
-Page-wise Breakdown
+# Page-wise Breakdown
 1. Churn by Demographics
 In this section, we analyze how churn rates vary across different demographic groups such as age and gender. Key insights include:
 ![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page3.jpg)
@@ -70,7 +70,7 @@ High Risk Customers: 100% churn rate (all high-risk customers churned)
 Medium Risk Customers: 23.76% churn rate
 Low Risk Customers: 0.62% churn rate
 
-Results and Analysis
+# Results and Analysis
 This section delves into the detailed results obtained from the analysis, focusing on key takeaways that can help businesses formulate effective retention strategies.
 
 1. Churn Rate Breakdown
@@ -87,7 +87,7 @@ The total revenue lost due to churn amounts to $1,367,515. Additionally, there i
 An interesting finding is that customers with lower product usage tend to have higher churn rates. By improving engagement with these customers, businesses can reduce churn.
 
 
-Recommendations and Strategies
+# Recommendations and Strategies
 Based on the analysis, here are some key recommendations to reduce churn:
 ![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page8.jpg)
 
@@ -106,5 +106,6 @@ Enhancing the dashboard with machine learning models to predict churn probabilit
 Custom Retention Offers:
 
 Offering discounts or subscription upgrades to customers with higher churn likelihood could be a strategic move to retain them.
-Conclusion
+
+# Conclusion
 The Customer Churn Analysis Dashboard offers powerful insights into churn patterns, revenue impact, and customer engagement trends. By addressing the key factors identified in the analysis, businesses can develop targeted strategies to reduce churn, improve customer satisfaction, and increase profitability.
