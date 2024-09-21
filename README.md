@@ -1,4 +1,3 @@
-# Churn-Analysis-PowerBI-Report
 # Customer Churn Analysis Dashboard
 # Introduction
 This project presents a Customer Churn Analysis dashboard built using Power BI. It aims to provide a comprehensive analysis of customer churn, helping businesses understand the key factors contributing to churn and offering insights for retention strategies. By visualizing demographic breakdowns, usage trends, and churn risk, this dashboard equips decision-makers with the tools necessary for data-driven actions.
