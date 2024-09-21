@@ -85,7 +85,7 @@ The total revenue lost due to churn amounts to $1,367,515. Additionally, there i
 
 3. Product Usage and Churn Correlation
 An interesting finding is that customers with lower product usage tend to have higher churn rates. By improving engagement with these customers, businesses can reduce churn.
-
+![image](https://github.com/Niteesh-Nigam/Churn-Analysis-PowerBI-Report/blob/main/images/Page10.jpg)
 
 # Recommendations and Strategies
 Based on the analysis, here are some key recommendations to reduce churn:
